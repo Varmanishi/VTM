@@ -8,7 +8,7 @@ table 50755 VTMSetupTable
         field(1; "No."; Integer)
         {
             Caption = 'No.';
-editable = False;
+	    Editable = False;
         }
         field(2; "Vechicle No."; Code[20])
         {
